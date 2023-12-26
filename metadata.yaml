@@ -1,0 +1,36 @@
+_repo: The-life-of-the-departed-b-A-sermon-occasioned-by-the-death-of-the-Rev-Joseph-Crandal-of-Sals__72261
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bill, I. E. (Ingraham E.)
+    aliases:
+    - Bill, Ingraham E.
+    - Bill, Ingram E.
+    - Bill, Ingraham Ebenezer
+    birthdate: 1805
+    deathdate: 1891
+    gutenberg_agent_id: '56623'
+    url: http://www.gutenberg.org/2009/agents/56623
+    wikipedia: https://en.wikipedia.org/wiki/Ingraham_Ebenezer_Bill
+description: ''
+gutenberg_issued: '2023-11-29'
+identifiers:
+  gutenberg: '72261'
+language: en
+pgterms:marc904: https://archive.org/details/cihm_92582/mode/2up
+pgterms:marc905: 20230323094337bill
+pgterms:marc906: '1858'
+pgterms:marc907: CA
+publication_note: '  $aSt. John :$bBarnes and Company, $c1858.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Funeral sermons'
+- !lcsh 'Crandall, Joseph, 1771?-1858'
+- !lcc 'BV'
+- GITenberg
+title: 'The life of the departed : $b A sermon occasioned by the death of the Rev.
+  Joseph Crandal, of Salsbury, preached in the Baptist chapel, Germain Street, city
+  of St. John'
+url: http://www.gutenberg.org/ebooks/72261
