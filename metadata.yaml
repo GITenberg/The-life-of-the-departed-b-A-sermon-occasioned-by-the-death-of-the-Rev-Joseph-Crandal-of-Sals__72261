@@ -1,5 +1,8 @@
 _repo: The-life-of-the-departed-b-A-sermon-occasioned-by-the-death-of-the-Rev-Joseph-Crandal-of-Sals__72261
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bill, I. E. (Ingraham E.)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56623
     wikipedia: https://en.wikipedia.org/wiki/Ingraham_Ebenezer_Bill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72261#The-life-of-the-departed-b-A-sermon-occasioned-by-the-death-of-the-Rev-Joseph-Crandal-of-Sals_
 gutenberg_issued: '2023-11-29'
 identifiers:
   gutenberg: '72261'
